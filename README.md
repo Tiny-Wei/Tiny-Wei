@@ -2,17 +2,14 @@
 
 **Languages and Tools**  
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/html5.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/html5.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/css3.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/javascript.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/python.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/visualstudiocode.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/pycharm.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/git.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/docker.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/nginx.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/curl.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/deno.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/hexo.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/grafana.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/prometheus.svg"></code>
@@ -21,6 +18,10 @@
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/linux.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/vim.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/docker.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/curl.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/deno.svg"></code>
+
 
 **Favorite**
 * Frequently visited website
