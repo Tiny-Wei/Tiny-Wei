@@ -2,7 +2,7 @@
 
 **Languages and Tools**  
 
-<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/html5.svg"></code>
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/html5.svg">
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/css3.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/javascript.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/python.svg"></code>
