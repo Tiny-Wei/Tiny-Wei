@@ -5,6 +5,7 @@
 <code><img height="20" alt="html5" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/html5.svg"></code>
 <code><img height="20" alt="css3" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/css3.svg"></code>
 <code><img height="20" alt="javascript" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/javascript.svg"></code>
+<code><img height="20" alt="vue" src="https://vuejs.org/images/logo.svg"></code>
 <code><img height="20" alt="python" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/python.svg"></code>
 <code><img height="20" alt="visualstudiocode" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/visualstudiocode.svg"></code>
 <code><img height="20" alt="pycharm" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/pycharm.svg"></code>
