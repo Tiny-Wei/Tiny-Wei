@@ -32,7 +32,6 @@
 * My favorite linux distribution
 <code><img height="20" alt="debian" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/debian.svg"></code>
 <code><img height="20" alt="kalilinux" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/kalilinux.svg"></code>
-<code><img height="20" alt="ubuntu" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/ubuntu.svg"></code>
 
 
 
