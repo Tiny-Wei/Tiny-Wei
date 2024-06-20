@@ -1,6 +1,7 @@
 ### Hey 👋, I'm Tianyu Wei.
 
 **Platform & Tools**
+
 [![Debian](https://img.shields.io/badge/Debian%20GNU%2FLinux-d70a53?style=for-the-badge&logo=debian&logoColor=fff)](https://debian.org/)
 ![OnePlus](https://img.shields.io/badge/OnePlus-%23F5010C.svg?style=for-the-badge&logo=oneplus&logoColor=white)
 [![Firefox](https://img.shields.io/badge/FireFox-fb4141?style=for-the-badge&logo=Firefox-Browser&logoColor=ffffff)](https://www.mozilla.org/zh-CN/firefox/)
@@ -20,14 +21,15 @@
 
 **Favorite**
 * Frequently visited website
-<code><img height="20" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg"></code>
-<code><img height="20" alt="google" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/google.svg"></code>
-<code><img height="20" alt="bilibili" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/bilibili.svg"></code>
-<code><img height="20" alt="mdnwebdocs" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/mdnwebdocs.svg"></code>
+
+![github](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
+![bilibili](https://img.shields.io/badge/bilibili-%2300A1D6.svg?style=for-the-badge&logo=bilibili&logoColor=white)
+![MDN Web Docs](https://img.shields.io/badge/mdnwebdocs-000000.svg?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+
 * My favorite linux distribution
-<code><img height="20" alt="debian" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/debian.svg"></code>
-<code><img height="20" alt="kalilinux" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/kalilinux.svg"></code>
+![Debian](https://skillicons.dev/icons?i=debian)
 
 🤔 **My recent programming status:**
+
 <span><img src="https://github-readme-stats.vercel.app/api?username=Tiny-Wei&show_icons=true&theme=react&hide_border=false" alt="Tiny-Wei" width=48% /></span>
-<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiny-Wei&theme=react" alt="yangchuansheng" width=48% /></span>
+<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiny-Wei&theme=react" alt="Tiny-Wei" width=48% /></span>
