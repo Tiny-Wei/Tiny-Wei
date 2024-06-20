@@ -1,27 +1,19 @@
 ### Hey 👋, I'm Tianyu Wei.
 
-**Languages and Tools**  
+**Platform & Tools**
 
-<code><img height="20" alt="html5" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/html5.svg"></code>
-<code><img height="20" alt="css3" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/css3.svg"></code>
-<code><img height="20" alt="javascript" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/javascript.svg"></code>
-<code><img height="20" alt="python" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/python.svg"></code>
-<code><img height="20" alt="visualstudiocode" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/visualstudiocode.svg"></code>
-<code><img height="20" alt="pycharm" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/pycharm.svg"></code>
-<code><img height="20" alt="git" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/git.svg"></code>
-<code><img height="20" alt="nginx" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/nginx.svg"></code>
-<code><img height="20" alt="hexo" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/hexo.svg"></code>
-<code><img height="20" alt="grafana" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/grafana.svg"></code>
-<code><img height="20" alt="prometheus" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/prometheus.svg"></code>
+
+**Code and Skills**  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,rust,html,css,js,py,vscode,git,nginx,hexo,grafana,prometheus,linux,debian,go,rust,vim,docker,kali,kubernetes,ansible,bash,cloudflare,github,githubactions,gmail,md,openstack,redis,terraform,threejs" />
+  </a>
+</p>
 
 **Technology being learned**
 
-<code><img height="20" alt="linux" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/linux.svg"></code>
-<code><img height="20" alt="vim" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/vim.svg"></code>
-<code><img height="20" alt="heldockerlo" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/docker.svg"></code>
 <code><img height="20" alt="curl" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/curl.svg"></code>
-<code><img height="20" alt="deno" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/deno.svg"></code>
-
+drone argocd
 
 **Favorite**
 * Frequently visited website
@@ -34,9 +26,6 @@
 <code><img height="20" alt="kalilinux" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/kalilinux.svg"></code>
 
 
-
 🤔 **My recent programming status:**
-```text
-No Activity tracked this Week
-```
-[![tiny-wei's github stats](https://github-readme-stats.vercel.app/api?username=tiny-wei)](https://github.com/anuraghazra/github-readme-stats)
+<span><img src="https://github-readme-stats.vercel.app/api?username=Tiny-Wei&show_icons=true&theme=react&hide_border=false" alt="Tiny-Wei" width=48% /></span>
+<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiny-Wei&theme=react" alt="yangchuansheng" width=48% /></span>
