@@ -1,14 +1,3 @@
-activeSshProfile的方式
-
-git commit -S -m "[test]提高UT覆盖率"
-
-Improve UT coverage
-
-unit_test_coverage_improve
-
-
-
-
 ### Hey 👋, I'm Tianyu Wei.
 
 **Platform & Tools**
@@ -60,5 +49,6 @@ unit_test_coverage_improve
   ![Debian](https://skillicons.dev/icons?i=debian)
 
 🤔 **My recent programming status:**
+
 <img src="https://github-readme-stats.vercel.app/api?username=Tiny-Wei&show_icons=true&theme=react" alt="Tiny-Wei" width=50% />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiny-Wei&theme=react" alt="Tiny-Wei" width=50% />
