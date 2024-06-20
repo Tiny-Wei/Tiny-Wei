@@ -40,9 +40,9 @@
 **Favorite**
 - Frequently visited website
 
-  ![github](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![bilibili](https://img.shields.io/badge/bilibili-%2300A1D6.svg?style=for-the-badge&logo=bilibili&logoColor=white)
-  ![MDN Web Docs](https://img.shields.io/badge/mdnwebdocs-000000.svg?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+  [![github](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+  [![bilibili](https://img.shields.io/badge/bilibili-%2300A1D6.svg?style=for-the-badge&logo=bilibili&logoColor=white)](https://bilibili.com)
+  [![MDN Web Docs](https://img.shields.io/badge/mdnwebdocs-000000.svg?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/zh-CN/)
 
 - My favorite linux distribution
 
