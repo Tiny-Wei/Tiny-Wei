@@ -50,5 +50,9 @@
 
 🤔 **My recent programming status:**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tiny-Wei&show_icons=true&theme=react" alt="Tiny-Wei" width=50% />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiny-Wei&theme=react" alt="Tiny-Wei" width=50% />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tiny-Wei&show_icons=true&theme=react" alt="Tiny-Wei" width=50% />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiny-Wei&theme=react" alt="Tiny-Wei" width=50% />
+</p>
