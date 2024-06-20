@@ -20,16 +20,17 @@
 </p>
 
 **Favorite**
-* Frequently visited website
+- Frequently visited website
 
 ![github](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 ![bilibili](https://img.shields.io/badge/bilibili-%2300A1D6.svg?style=for-the-badge&logo=bilibili&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/mdnwebdocs-000000.svg?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 
-* My favorite linux distribution
+- My favorite linux distribution
+
 ![Debian](https://skillicons.dev/icons?i=debian)
 
 🤔 **My recent programming status:**
 
-<span><img src="https://github-readme-stats.vercel.app/api?username=Tiny-Wei&show_icons=true&theme=react&hide_border=false" alt="Tiny-Wei" width=48% /></span>
-<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiny-Wei&theme=react" alt="Tiny-Wei" width=48% /></span>
+<span><img src="https://github-readme-stats.vercel.app/api?username=Tiny-Wei&show_icons=true&theme=react" alt="Tiny-Wei" width=50% /></span>
+<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiny-Wei&theme=react" alt="Tiny-Wei" width=50% /></span>
